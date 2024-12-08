@@ -1,7 +1,6 @@
 # music-player
 NAME: Prince Takyi Amoako.
-Email: Princetakyijnr@yahoo.com
-           Princetakyijnr@gmail.com
+
 PROJECT NAME: Music Player.
 
 My Project Idea is a Music Player
