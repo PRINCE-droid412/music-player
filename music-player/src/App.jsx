@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="h-screen flex items-center justify-center bg-gray-100 text-blue-500 text-2xl">
-      Tailwind CSS is working!
+      Tailwind CSS is working! GetReay for more...
     </div>
   );
 }
